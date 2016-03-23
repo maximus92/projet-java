@@ -1,0 +1,22 @@
+label{
+	display: block;
+	width: 40%;
+}
+
+input{
+	background-color: #FFF3F3;
+}
+
+input:focus{
+	background-color: white;
+}
+
+fieldset{
+	border: 1px solid red;
+	width: 50%;
+}
+
+legend{
+	color : red;
+	font-weight: bold;
+}
