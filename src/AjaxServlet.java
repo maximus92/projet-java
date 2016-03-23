@@ -46,7 +46,7 @@ public class AjaxServlet extends HttpServlet {
 		if(login.equals("abc") && pwd.equals("123")){
 			val = "1";
 		}else{
-			val = "0";
+			val = "2";
 		}
 	    response.setContentType("application/json");
 	    response.setCharacterEncoding("UTF-8");
